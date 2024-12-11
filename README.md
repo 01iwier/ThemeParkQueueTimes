@@ -10,7 +10,7 @@
 - Real-Time Update Display: Indicates the last data update time in a user-friendly format.
 
 **Demo**
-- ![ScreenShot](https://raw.github.com/01iwier/Theme-Park-Queue-Times/blob/main/Queue_Times_Screenshot.png)
+- ![Queue_Times_Screenshot](https://github.com/user-attachments/assets/6e91dfce-c05f-4a0e-aab4-3171b0647907)
 
 **Prerequisites**
 - Node.js
